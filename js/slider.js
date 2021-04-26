@@ -1,4 +1,4 @@
-var $links = $(".itemLinks");
+var $links = $(".itemLink");
 
 $links.click(function (e) {
     $links.removeClass("active");
